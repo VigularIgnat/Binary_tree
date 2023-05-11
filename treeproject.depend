@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1678817515 source:c:\users\ignat\desktop\cpp projects\tree\treeproject\main.cpp
+	<iostream>
+	"Tree.h"
+	<string>
+
+1678817700 c:\users\ignat\desktop\cpp projects\tree\treeproject\include\tree.h
+	<string>
+	<iostream>
+
+1678817605 source:c:\users\ignat\desktop\cpp projects\tree\treeproject\src\tree.cpp
+	"Tree.h"
+	<iostream>
+
